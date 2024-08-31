@@ -269,7 +269,7 @@ li {
   padding: 0;
 }
 
-.activintere--pointer:hover {
+.interactive--pointer:hover {
   cursor: pointer;
   opacity: 0.5;
   transition: opacity 1s;
